@@ -1,16 +1,16 @@
 Thesis
 ======
 
-Work for MSc thesis
+Work for PhD thesis
 
 Includes working draft(s) of:
-- Proposal
-- Thesis draft (eventually)
+- Thesis draft
+  - Lat chapter especially
 
-In addition to (hopefully?):
-- Excel species database
-- Populations per spp databse
-- R code for analysis (in the future)
+In addition to:
+- Excel and .csv files of MacroPopGenBase
+- R code for analysis
+- GIS shapefiles
 
 
 
